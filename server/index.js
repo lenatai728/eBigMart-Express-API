@@ -20,10 +20,10 @@ const connect = () => {
         .catch(err => console.log('connect error: ', err));
 }
 
-app.use('/crud/products', productsRoute);
-app.use('/crud/users', usersRoute);
-app.use('/crud/auths', authsRoute);
-app.use('/crud/orders', ordersRoute);
+app.use('/api/products', productsRoute);
+app.use('/api/users', usersRoute);
+app.use('/api/auths', authsRoute);
+app.use('/api/orders', ordersRoute);
 
 const PORT = 8000 || process.env.PORT;
 app.listen(PORT, () => {

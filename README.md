@@ -6,7 +6,7 @@
     - Orders CRUD API
 
 ### Content
-- client ``to be continued developing...``
+- client ``To be continued developing...``
 - server ``In development``
 
 ### Language & Tools
