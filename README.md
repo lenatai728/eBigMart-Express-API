@@ -10,9 +10,9 @@
 - server ``In development``
 
 ### Language & Tools
-- Language: JavaScript
+- Language: Node.js
 - Database: MongoDB 
-- Tools Used: MongoDB Atlas, Node.js, Express.js, Postman (for API testing)
+- Tools Used: MongoDB Atlas, Express.js, Postman (for API testing)
 - Packages Used: 
     - express
     - cors 
